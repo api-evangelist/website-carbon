@@ -1,0 +1,32 @@
+aid: website-carbon
+name: Website Carbon
+description: "API to estimate the carbon footprint of loading web pages"
+url: https://api.websitecarbon.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: Website Carbon
+    description: "API to estimate the carbon footprint of loading web pages"
+    humanURL: https://api.websitecarbon.com/
+    baseURL: https://api.websitecarbon.com/
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://api.websitecarbon.com/
+common:
+  - type: Website
+    url: https://api.websitecarbon.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
