@@ -39,7 +39,6 @@ apis:
   - name: Website Carbon
     description: "API to estimate the carbon footprint of loading web pages"
     humanURL: https://api.websitecarbon.com/
-    baseURL: https://api.websitecarbon.com/
     tags:
       - Environment
     properties:
